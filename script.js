@@ -27,10 +27,6 @@ function send(){
     showRank();
 }
 
-
-
-
-
 //função para exibir rankeamento do herói
 function showRank(){
     balance = countV - countD;
